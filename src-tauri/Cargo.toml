@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "AI-powered open-source music studio"
 authors = ["Lorelei Noble <lorelei@arynwood.com>"]
 license = "MIT"
-repository = "https://github.com/SkyeVault/MusicStudio"
+repository = "https://github.com/loreleinoble/MusicStudio"
 edition = "2021"
 rust-version = "1.77"
 
